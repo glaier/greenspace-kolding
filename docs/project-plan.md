@@ -3,7 +3,9 @@
 **Status:** Draft for review · **Updated:** 2026-10-10
 
 ## Purpose and audience
-Independent GIS portfolio project for public-sector GIS, spatial analytics and urban planning audiences. Research question: **How accessible are publicly accessible green spaces to residential areas in urban Kolding, and where are potential gaps?**
+Independent GIS portfolio project for public-sector GIS, spatial analytics and urban planning audiences. **Approved research objective (2026-10-10):** GreenSpace Kolding will investigate how easily residents of Kolding urban area can reach publicly accessible green spaces on foot, measured along an actual pedestrian network.
+
+**Operational research question:** How accessible are publicly accessible green spaces to residential areas in urban Kolding, and where are potential gaps?
 
 This is not a municipal policy assessment or official analysis.
 
